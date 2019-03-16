@@ -1,0 +1,16 @@
+C:\Users\IndyV\source\repos\ElectricApi\ElectricApi\bin\Debug\netcoreapp2.2\ElectricApi.deps.json
+C:\Users\IndyV\source\repos\ElectricApi\ElectricApi\bin\Debug\netcoreapp2.2\ElectricApi.runtimeconfig.json
+C:\Users\IndyV\source\repos\ElectricApi\ElectricApi\bin\Debug\netcoreapp2.2\ElectricApi.runtimeconfig.dev.json
+C:\Users\IndyV\source\repos\ElectricApi\ElectricApi\bin\Debug\netcoreapp2.2\ElectricApi.dll
+C:\Users\IndyV\source\repos\ElectricApi\ElectricApi\obj\Debug\netcoreapp2.2\ElectricApi.csprojAssemblyReference.cache
+C:\Users\IndyV\source\repos\ElectricApi\ElectricApi\obj\Debug\netcoreapp2.2\ElectricApi.csproj.CoreCompileInputs.cache
+C:\Users\IndyV\source\repos\ElectricApi\ElectricApi\obj\Debug\netcoreapp2.2\ElectricApi.RazorAssemblyInfo.cache
+C:\Users\IndyV\source\repos\ElectricApi\ElectricApi\obj\Debug\netcoreapp2.2\ElectricApi.RazorAssemblyInfo.cs
+C:\Users\IndyV\source\repos\ElectricApi\ElectricApi\obj\Debug\netcoreapp2.2\ElectricApi.AssemblyInfoInputs.cache
+C:\Users\IndyV\source\repos\ElectricApi\ElectricApi\obj\Debug\netcoreapp2.2\ElectricApi.AssemblyInfo.cs
+C:\Users\IndyV\source\repos\ElectricApi\ElectricApi\obj\Debug\netcoreapp2.2\ElectricApi.RazorTargetAssemblyInfo.cache
+C:\Users\IndyV\source\repos\ElectricApi\ElectricApi\bin\Debug\netcoreapp2.2\ElectricApi.pdb
+C:\Users\IndyV\source\repos\ElectricApi\ElectricApi\obj\Debug\netcoreapp2.2\ElectricApi.dll
+C:\Users\IndyV\source\repos\ElectricApi\ElectricApi\obj\Debug\netcoreapp2.2\ElectricApi.pdb
+C:\Users\IndyV\source\repos\ElectricApi\ElectricApi\obj\Debug\netcoreapp2.2\ElectricApi.Properties.Resources.resources
+C:\Users\IndyV\source\repos\ElectricApi\ElectricApi\obj\Debug\netcoreapp2.2\ElectricApi.csproj.GenerateResource.cache
